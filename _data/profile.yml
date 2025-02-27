@@ -8,7 +8,7 @@ navbar_name: "Wenjing Liu"
 # - name: Position 2 without logo
 
 
-email: "liuwj(at)mail2.sysu.edu.cn"
+email: "liuwj79(at)mail2.sysu.edu.cn"
 # cv_link: link-to-your-cv-file
 gscholar: None  # This is an example, replace it with your own Google Scholar ID
 github: liuwj003
@@ -46,10 +46,10 @@ experience:
 - name: Sun Yat-Sen University (SYSU)
   logo: /assets/images/badges/SYSU_green.png
   position: Research Assistant
-  date: Feb. 2019 - present
+  date: Feb. 2024 - present
 - name: Sun Yat-Sen University (SYSU)
   logo: /assets/images/badges/SYSU_green.png
-  position: Research Assistant
+  position: Research Assistant, assisting with data cleaning
   date: Oct. 2024 - Jan. 2025
 
 # awards:
