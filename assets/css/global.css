@@ -69,7 +69,7 @@ div.lazy {
 
 .clstr-globe-container {
     width: 100%;
-    max-width: 150px; /* Adjust this value as needed */
+    max-width: 120px; /* Adjust this value as needed */
     height: auto;
     margin: 0 auto; /* Center the container */
 }
