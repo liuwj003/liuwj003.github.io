@@ -28,10 +28,9 @@ short_bio: >-
     My research interests include machine learning, with a focus on Generative Models.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/portrait.png
 portrait_caption: >-
-  A cat named XiaoBo
-
+  To Be Added
 education:
 - name: Sun Yat-Sen University (SYSU)
   logo: /assets/images/badges/SYSU_green.png
