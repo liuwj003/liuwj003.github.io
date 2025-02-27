@@ -67,3 +67,9 @@ div.lazy {
     font-family: Courier, monospace;
 }
 
+.clstr-globe-container {
+    width: 100%;
+    max-width: 50px; /* Adjust this value as needed */
+    height: auto;
+    margin: 0 auto; /* Center the container */
+}
