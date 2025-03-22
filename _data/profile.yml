@@ -12,7 +12,7 @@ email: "liuwj79(at)mail2.sysu.edu.cn"
 # cv_link: link-to-your-cv-file
 gscholar: None  # This is an example, replace it with your own Google Scholar ID
 github: liuwj003
-twitter: your_twitter_id  # Do not include the '@' symbol
+# twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -28,7 +28,8 @@ short_bio: >-
     My research interests include machine learning, with a focus on Generative Models.
   </p>
 
-portrait_url: /assets/images/photos/portrait.png
+# portrait_url: /assets/images/photos/portrait.png
+portrait_url: /assets/images/photos/sticker.gif
 portrait_caption: >-
   To Be Added
 education:
