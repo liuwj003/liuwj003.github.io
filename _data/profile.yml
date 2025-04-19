@@ -1,4 +1,4 @@
-primary_name: "Wenjing Liu (刘文婧)"
+primary_name: "Wenjing Liu"
 secondary_name: ""
 navbar_name: "Wenjing Liu (刘文婧)"
 
@@ -25,7 +25,7 @@ short_bio: >-
     I am an undergraduate student at Sun Yat-Sen University, majoring in Computer Science and minoring in Mathematics.
   </p>
   <p>
-    My research interests include machine learning, with a focus on Generative Models.
+    My research interests include machine learning, currently with a focus on Generative Models.
   </p>
 
 # portrait_url: /assets/images/photos/portrait.png
