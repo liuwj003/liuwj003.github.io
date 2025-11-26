@@ -25,7 +25,13 @@ short_bio: >-
     I am an undergraduate student at Sun Yat-Sen University, majoring in Computer Science and Technology, minoring in Mathematics and Applied Mathematics.
   </p>
   <p> 
-    I also work as a Research Intern at Stony Brook University, where I am extremely fortunate to be advised by Prof. Chenyu You.
+    I also work as a Research Intern at Stony Brook University, where I am extremely fortunate to be advised by 
+    Prof. <a href="https://chenyuyou.me"
+          target="_blank"
+          rel="noopener noreferrer"
+          style="color: blue;">
+          Chenyu You
+          </a>.
   </p>
   <p>
     My research interests include multi-modal machine learning, AI for health.
