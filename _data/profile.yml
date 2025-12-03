@@ -42,11 +42,11 @@ portrait_url: ''
 portrait_caption: >-
   To Be Added
 education:
-- name: Sun Yat-Sen University (SYSU)
+- name: Sun Yat-Sen University
   logo: /assets/images/badges/SYSU_green.png
   position: B.Eng. in Computer Science and Technology
   date: Sep. 2023 - present
-- name: Sun Yat-Sen University (SYSU)
+- name: Sun Yat-Sen University
   logo: /assets/images/badges/SYSU_green.png
   position: Minor in Mathematics and Applied Mathematics
   date: Sep. 2021 - present
@@ -56,7 +56,7 @@ experience:
   logo: /assets/images/badges/SBU.png
   position: Research Intern
   date: Jun. 2025 - present
-- name: Sun Yat-Sen University (SYSU)
+- name: Sun Yat-Sen University
   logo: /assets/images/badges/SYSU_green.png
   position: Research Intern
   date: Oct. 2024 - present
