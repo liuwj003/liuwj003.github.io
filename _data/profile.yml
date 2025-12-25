@@ -37,8 +37,7 @@ short_bio: >-
     My research interests lie in multi-modal machine learning, AI for health, optimization. My broader interests include computer vision and generative models.
   </p>
 
-# portrait_url: /assets/images/photos/portrait.png
-portrait_url: ''
+portrait_url: /assets/images/photos/portrait.png
 portrait_caption: >-
   To Be Added
 education:
